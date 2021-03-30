@@ -20,6 +20,7 @@ const Login = (props) => {
 
           
           <div className="loginContainer">
+              <h2>Welcome to Find My School Admin Panel</h2>
 
               <label>Email</label>
               <input type = "text" 

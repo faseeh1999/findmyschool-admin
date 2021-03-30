@@ -51,6 +51,15 @@ button {
   line-height: 1;
 }
 
+.login .loginContainer h2 {
+  color: white;
+  margin: 14px 0;
+  display: block;
+  font-size: 32px;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
 .login .loginContainer input {
   width: 100%;
   border: none;
